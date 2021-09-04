@@ -1,5 +1,5 @@
 camunda.bpm.client:
-  base-url: http://http://20.75.160.66:8050/engine-rest # the URL pointing to the Camunda Platform Runtime REST API
+  base-url: http://20.75.160.66:8050/engine-rest # the URL pointing to the Camunda Platform Runtime REST API
   basic-auth:
     username: "demo"
     password: "demo"
